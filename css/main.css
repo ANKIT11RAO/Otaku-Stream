@@ -3,11 +3,17 @@
 body{
     background:#ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left:10em ;
-    margin-right: 10em;
+    margin-left:3em ;
+    margin-right: 7em;
     margin-top: 2em;
 }
-
+.itachi{
+    display: inline-block;
+    width: 110px;
+    border-top-right-radius: 46.9px;
+    border-top-left-radius:46.7px;
+ 
+}
 a{
     text-decoration: none;
     color: black;
