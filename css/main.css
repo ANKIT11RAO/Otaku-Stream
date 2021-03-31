@@ -7,6 +7,7 @@ body{
     margin-right: 10em;
     margin-top: 2em;
 }
+
 a{
     text-decoration: none;
     color: black;
@@ -34,6 +35,9 @@ a{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
     list-style-type: none;
+}
+.secondary{
+    display: inline-block;
 }
 .login{
     display: inline-block;
